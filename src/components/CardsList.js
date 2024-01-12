@@ -5,6 +5,11 @@ import Cards from './Cards'
 
 const CardsList = ({robots}) =>
 {   
+    //Just to check error message in browser console
+    // if (true)
+    // {
+    //     throw new Error ('Noo');
+    // }
     return (
         <div>
             {
